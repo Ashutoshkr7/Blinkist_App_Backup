@@ -53,8 +53,6 @@ declare module '@mui/material/Typography' {
     }
 }
   
-
-
 let baseTheme = createTheme({
     palette: {
         primary: {
